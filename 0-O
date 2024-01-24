@@ -1,3 +1,4 @@
-Best-Case Time Complexity: O(n)
-Average Time Complexity: O(n²)
-Worst-Case Time Complexity: O(n²)
+O(n)
+O(n²)
+O(n²)
+
